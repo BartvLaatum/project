@@ -1,0 +1,24 @@
+{
+    "teams": [
+        "Team_01",
+        "Team_02",
+        "Team_03",
+        "Team_04",
+        "Team_05",
+        "Team_06",
+        "Team_07",
+        "Team_08",
+        "Team_09",
+        "Team_10",
+        "Team_11"
+    ],
+    "type": "poul",
+    "no_pools": 2,
+    "no_fields": 2,
+    "pool_sizes": [5, 6],
+    "pool_names": ["A", "B"],
+    "game_duration": 10,
+    "pause": 5,
+    "no_matches": 1,
+    "start_tournament": "18:30"
+}

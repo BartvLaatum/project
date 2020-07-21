@@ -1,0 +1,25 @@
+{
+    "teams": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+    ],
+    "type": "poul",
+    "no_fields": 2,
+    "pool_sizes": [4, 4, 4],
+    "pool_names": ["A", "B", "C"],
+    "game_duration": 10,
+    "pause": 5,
+    "no_matches": 1,
+    "pitches": 2,
+    "start_tournament": "18:30"
+}
